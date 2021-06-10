@@ -69,10 +69,7 @@ int main() {
                 op >> ssize;
                 malloc(ssize);
             }
-            else if (binop == "")
-            {
-                std::string
-            }
+
             else if (binop == "CHSUM")
             {
                 int hex_fs;
